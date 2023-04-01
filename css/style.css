@@ -1,0 +1,33 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+div.navbar-header {
+  float: right;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 18px;
+  border: none;
+}
+
+th {
+  background-color: #878787;
+}
+
+tr {
+  background-color: #efefef;
+}
+
+td, th {
+  border-left: none;
+  border-top: none;
+  padding: 1em;
+  border-right: 2px solid #fff;
+}
+
+td, tr {
+  border-bottom: 2px solid #fff;
+}
